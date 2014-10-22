@@ -1,0 +1,6 @@
+# Phase 1 users
+*		TTLS
+
+# Phase 2 (tunnelled within EAP-PEAP/TTLS/FAST) users
+"user"	TTLS-MSCHAPV2	"password"	[2]
+"wifi-user"	TTLS-MSCHAPV2	"test%11"	[2]
